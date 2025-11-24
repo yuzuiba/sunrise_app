@@ -8,7 +8,7 @@ global_font_bold = ("Courier", 14, "bold")
 title_font = ("Courier", 22, "bold")
 
 headers = {
-    "x-rapidapi-key": "b901ebdea4msh0d247ebde7ec300p1e4038jsnf5cf957e0db7",
+    "x-rapidapi-key": "",
     "x-rapidapi-host": "sunrise-sunset-times.p.rapidapi.com"
 }
 
